@@ -8,7 +8,7 @@
 
 ### Parte 1 - Variáveis e tipos de dados
 
-1. Imprima no console "Olá mundo!"
+1. **Imprima no console "Olá mundo!"**
    Exemplo de saída: Olá mundo!
 
 2. Crie uma variável idade, faça a atribuição do valor correspondente e por fim imprima a idade dessa pessoa no console.
